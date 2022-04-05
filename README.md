@@ -1,4 +1,4 @@
-# stock-in-python-
+# Stock-in-Python-
 ## 這是一個利用python實作出股票自動交易repository，以下:
 
 ### 1. 使用者寫出一個portfolio size，自動計算在S&P500中應該要投資多少股類似於ETF的投資法，各個股票的權重相同(金額相同)，並且整理在excel中。
