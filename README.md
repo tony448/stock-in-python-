@@ -6,3 +6,4 @@
 ### 3. 用python自動偵測出趨勢線。
 ### 4. 實作出利用KD進行自動化交易的程式，並將結果圖示化。
 ### 5. 利用selenium爬蟲，並且模仿人類的點擊行為自動下載財報。
+### 6. Triangle pattern detection
